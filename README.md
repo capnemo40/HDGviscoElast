@@ -1,6 +1,6 @@
 # An h𝑝 error analysis of an HDG mixed method for linear viscoelasticity
 
-![](https://github.com/capnemo40/HDGviscoElast/blob/main/half.png =250x)
+![](https://github.com/capnemo40/HDGviscoElast/blob/main/half.png)
 ![](https://github.com/capnemo40/HDGviscoElast/blob/main/one.png)
 ![](https://github.com/capnemo40/HDGviscoElast/blob/main/oneHalf.png)
 ![](https://github.com/capnemo40/HDGviscoElast/blob/main/two.png)
