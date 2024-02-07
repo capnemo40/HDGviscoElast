@@ -1,5 +1,7 @@
 # An h𝑝 error analysis of an HDG mixed method for linear viscoelasticity
 
+![](https://github.com/capnemo40/HDGviscoElast/main/half.png)
+
 The codes have been implemented using the finite element library [Netgen/NGSolve](https://ngsolve.org).
 They have been tested with v6.2.2301.
 
