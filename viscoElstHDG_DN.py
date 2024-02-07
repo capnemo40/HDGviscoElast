@@ -8,7 +8,7 @@ HDG approximation in terms of stress & velocity
 Crank-Nicolson scheme
 
 Unit square, manufactured solutions. 
-h-conpvergence test (Table 6.1)
+h-conpvergence test (Table 6.2)
 Dirichlet-Neumann BCs
 Nearly incompressible material
 '''
